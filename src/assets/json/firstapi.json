@@ -1,0 +1,88 @@
+{
+  "services": [
+    {
+      "name": "virat",
+      "email": "virat@18gmail.com",
+      "phno": "9000016219",
+      "id": 11
+    },
+    {
+      "name": "sonu",
+      "email": "sonu@gmail.com",
+      "phno": "90000016219",
+      "id": 12
+    },
+    {
+      "name": "niharika",
+      "email": "niharika@gmail.com",
+      "phno": "9849564824",
+      "id": 13
+    },
+    {
+      "name": "satya",
+      "email": "satya@gmail.com",
+      "phno": "9849564824",
+      "id": 15
+    },
+    {
+      "name": "rajiya",
+      "email": "rajiya123@gmail.com",
+      "phno": "9849564824",
+      "id": 16
+    },
+    {
+      "name": "sailaja",
+      "email": "saida@gmail.com",
+      "phno": "9849564824666666",
+      "id": 17
+    },
+    {
+      "name": "dhanu",
+      "email": "dhanu@gmail.com",
+      "phno": "956482364",
+      "id": 18
+    },
+    {
+      "name": "power",
+      "email": "lokendrafullstack2021@gmail.com",
+      "phno": "9849563426",
+      "id": 19
+    },
+    {
+      "name": "varun",
+      "email": "varun@gmail.com",
+      "phno": "98523645263",
+      "id": 20
+    },
+    {
+      "name": "elesha",
+      "email": "elesha@gmail.com",
+      "phno": "9538174582",
+      "id": 21
+    },
+    {
+      "name": "ramcharan",
+      "email": "charan@gmail.com",
+      "phno": "5283465868",
+      "id": 22
+    },
+    {
+      "name": "ranga",
+      "email": "ranga@18gmail.com",
+      "phno": "09000016219",
+      "id": 23
+    },
+    {
+      "name": "tarak",
+      "email": "tarak@18gmail.com",
+      "phno": "0123321232",
+      "id": 24
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "phno": "0123321232",
+      "id": 25
+    }
+  ]
+}
